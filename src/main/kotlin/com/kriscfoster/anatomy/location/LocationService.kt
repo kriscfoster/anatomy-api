@@ -1,6 +1,5 @@
 package com.kriscfoster.anatomy.location
 
-import com.kriscfoster.anatomy.bone.Bone
 import org.springframework.stereotype.Service
 
 @Service

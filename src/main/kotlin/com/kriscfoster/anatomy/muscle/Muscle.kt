@@ -1,10 +1,10 @@
-package com.kriscfoster.anatomy.bone
+package com.kriscfoster.anatomy.muscle
 
 import javax.persistence.Entity
 import javax.persistence.Id
 
 @Entity
-class Bone(
+class Muscle(
         @Id
         var name: String? = null,
         var location: String?,
